@@ -1,4 +1,4 @@
-# Electoral_Bonds_Analysis
+# Electoral Bonds Analysis
 This project involves the analysis of electoral bonds transactions data to gain insights into the funding patterns of political parties and companies in India. The analysis is conducted using SQL queries to perform various tasks such as calculating total amounts, comparing distributions, identifying trends, and detecting anomalies in the data.
 ## Overview
 Electoral bonds were introduced as a mode of funding for political parties in India in 2017. However, they were later struck down as unconstitutional by the Supreme Court in 2024. This project focuses on analyzing the transactions related to electoral bonds to understand the financial dynamics between political parties and companies during this period.
